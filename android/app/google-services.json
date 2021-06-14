@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "724457030625",
+    "project_id": "agtechfarmer",
+    "storage_bucket": "agtechfarmer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724457030625:android:83ee35f4146f884d2288a0",
+        "android_client_info": {
+          "package_name": "com.digite.agronomist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724457030625-69qqb47m0vd418103jnkb4aluclt3gis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Wwlc8iWC6K4AUrtDnaEYAURkuyKbyS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724457030625-69qqb47m0vd418103jnkb4aluclt3gis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724457030625:android:c7969593695772282288a0",
+        "android_client_info": {
+          "package_name": "com.digite.agtech_farmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724457030625-69qqb47m0vd418103jnkb4aluclt3gis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Wwlc8iWC6K4AUrtDnaEYAURkuyKbyS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724457030625-69qqb47m0vd418103jnkb4aluclt3gis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
